@@ -2,6 +2,7 @@
 Hi, I'm Ying Tong, a Computer Science freshman at Multimedia University, Cyberjaya.<br><br>I'm passionate about software and web development, and I'm always on the lookout for opportunities to level up my skills. <br><br>Currently, I'm focusing on web development. <br><br>
 
 # 📊 GitHub Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaedusSolo)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api?username=CaedusSolo&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CaedusSolo&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CaedusSolo&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
