@@ -1,5 +1,5 @@
 # Hi there 👋
-Hi, I'm Ying Tong, a Computer Science freshman at Multimedia University, Cyberjaya.<br><br>I'm passionate about software and web development, and I'm always on the lookout for opportunities to level up my skills. <br><br>Currently, I'm focusing on web development. <br><br>
+Hi, I'm Ying Tong, a 2nd Year Computer Science undergrad at Multimedia University, Cyberjaya.<br><br>I'm passionate about software and web development, and I'm always on the lookout for opportunities to level up my skills. <br><br>Currently, I'm focusing on web development. <br><br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CaedusSolo&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
