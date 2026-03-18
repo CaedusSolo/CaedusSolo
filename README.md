@@ -7,4 +7,4 @@ Hi, I'm Ying Tong, a 2nd Year Computer Science undergrad at Multimedia Universit
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,express,rails,python,fastapi,cpp&perline=10)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,express,rails,python,java,cpp&perline=10)](https://skillicons.dev)<br><br>
