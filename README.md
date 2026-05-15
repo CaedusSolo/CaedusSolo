@@ -1,5 +1,6 @@
 # Hi there 👋
-Hi, I'm Ying Tong, a 2nd Year Computer Science undergrad at Multimedia University, Cyberjaya.<br><br>I'm passionate about software and web development, and I'm always on the lookout for opportunities to level up my skills. Currently, I'm focusing on web development. <br><br> Check out my portfolio site [here](https://yingtong.vercel.app/)! <br>
+Hi, I'm Ying Tong, a 2nd Year Computer Science undergrad at Multimedia University, Cyberjaya.<br><br>I'm passionate about software and web development, and I'm always on the lookout for opportunities to level up my skills. Currently, I'm focusing on web development. A builder at heart, I've contributed to projects with real-world use cases, such as ProPro and Hacktrack MMU. I'm also an active student leader, having held high committee roles in IT Society MMU, a faculty-based club for the Faculty of Computing and Informatics (FCI) at MMU Cyberjaya.
+<br><br> Check out my portfolio site [here](https://yingtong.vercel.app/)! <br>
 
 # 📊 GitHub Stats:
 ![Ying Tong's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaedusSolo&show_icons=true&theme=radical)<br/>
