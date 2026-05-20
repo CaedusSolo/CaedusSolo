@@ -3,9 +3,9 @@ Hi, I'm Ying Tong, a 2nd Year Computer Science undergrad at Multimedia Universit
 <br><br> Check out my portfolio site [here](https://yingtong.vercel.app/)! <br>
 
 # 📊 GitHub Stats:
-![Ying Tong's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaedusSolo&show_icons=true&theme=radical)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CaedusSolo&theme=radical)](https://git.io/streak-stats) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CaedusSolo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=CaedusSolo&show_icons=true&theme=radical) <br>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=CaedusSolo&theme=radical) <br>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CaedusSolo&layout=compact&theme=radical)
 
 
 # 💻 Tech Stack:
